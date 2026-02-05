@@ -65,7 +65,7 @@ The objectives of this project are to:
   - correlation analysis
 - Outlier detection using the **IQR method**
 - Data visualization using:
-  - histograms
+  - Histograms
   - bar charts
   - scatter plots
   - correlation heatmap
