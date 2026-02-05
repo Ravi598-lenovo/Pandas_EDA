@@ -10,7 +10,7 @@ It is designed as a **beginner-to-intermediate level project** for learners movi
 ## 🧠 Project Motivation
 
 After learning core Pandas concepts, I wanted to:
-- work with a **real dataset**
+- Work with a **real dataset**
 - understand how analysts explore data before modeling
 - practice **data cleaning and analysis techniques**
 
