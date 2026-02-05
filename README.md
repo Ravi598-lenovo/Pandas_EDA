@@ -35,7 +35,7 @@ The objectives of this project are to:
 - *Pandas*
 - *NumPy*
 - *Matplotlib*
-- *Jupyter Notebook / Google Colab*
+- *Jupyter Notebook / VS Code*
 
 ---
 
